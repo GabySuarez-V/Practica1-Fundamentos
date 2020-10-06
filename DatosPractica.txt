@@ -2,5 +2,5 @@ Nombre:Gabriela Suarez Velasco
 Edad: 21
 Juegos Actuales: fornite
 Mi juego favorito es el de la Formula1 :)
-carrera:
-Especialidad:
+carrera:Ing. en computacion
+Especialidad:Realidad virtual
